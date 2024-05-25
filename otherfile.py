@@ -15,4 +15,7 @@ b = 8
 print(maximum(a, b))
 
 print("other file code in python")
+print("******************")
+print("&&&&&&&&&&&&&&")
+
 
