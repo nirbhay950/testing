@@ -9,3 +9,6 @@ sum = num1 + num2
 print("Sum of", num1, "and", num2 , "is", sum)
 print("Hello world")
 print(sum)
+print("sdfghjk")
+print("qwsddfvbnedfghj")
+print("-----------------------")
