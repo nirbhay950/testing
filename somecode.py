@@ -12,3 +12,6 @@ print(sum)
 print("sdfghjk")
 print("qwsddfvbnedfghj")
 print("-----------------------")
+print("############")
+print("$$$$$$$$$$$$$")
+
