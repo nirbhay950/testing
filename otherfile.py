@@ -10,6 +10,9 @@ def maximum(a, b):
 		return b
 	
 # Driver code
-a = 2
-b = 4
+a = 10
+b = 8
 print(maximum(a, b))
+
+print("other file code in python")
+
